@@ -1,0 +1,41 @@
+[
+    {
+      "id": 0,
+      "name": "Mike",
+      "surname": "Baker",
+      "age": 28,
+      "place": "Georgia, Us",
+      "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.\nLorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "startDates": ["2021-04-25,10:00", "2021-07-20,10:00", "2021-10-05,10:00"]
+    },
+
+    {
+        "id": 1,
+        "name": "Alice",
+        "surname": "Wood",
+        "age": 31,
+        "place": "London, England",
+        "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.\nLorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "startDates": ["2021-04-25,10:00", "2021-07-20,10:00", "2021-10-05,10:00"]
+      },
+
+      {
+        "id": 2,
+        "name": "Hyato",
+        "surname": "Aizawa",
+        "age": 18,
+        "place": "Tokyo, Japan",
+        "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.\nLorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "startDates": ["2021-04-25,10:00", "2021-07-20,10:00", "2021-10-05,10:00"]
+      },
+
+      {
+        "id": 3,
+        "name": "Victor",
+        "surname": "Nikivorov",
+        "age": 31,
+        "place": "Moscow, Russia",
+        "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.\nLorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "startDates": ["2021-04-25,10:00", "2021-07-20,10:00", "2021-10-05,10:00"]
+      }
+  ]
